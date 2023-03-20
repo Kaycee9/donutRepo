@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+#mainNavbar{
+    font-size:1.5rem;
+    font-weight: 100;
+    
+}
+#mainNavbar .navbar-brand{
+    font-size:1.5rem;
+    font-weight: 100;
+    color: white;    
+}
+#activeLink{
+    background-color: rgb(235, 235, 28);
+    color: black;
+    border-radius: 3em;
+    border-color: white;
+}
+#mainNavbar .nav-link:hover{
+    color: rgb(235, 235, 28);
+}
+#pageHeader{
+    color: white;
+    font-family: dancing script, cursive;
+}
+#pageInfo{
+    color: white;
+}
+#infoButton{
+    background-color: rgb(235, 235, 28);
+    color: black;
+    border-radius: 3em;
+    border-color: white;
+}
