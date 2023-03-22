@@ -17,6 +17,10 @@ body{
     border-radius: 3em;
     border-color: white;
 }
+#activeLink:hover{
+    background-color:pink;
+
+}
 #mainNavbar .nav-link:hover{
     color: rgb(235, 235, 28);
 }
@@ -32,4 +36,8 @@ body{
     color: black;
     border-radius: 3em;
     border-color: white;
+}
+#infoButton:hover{
+    background-color:pink;
+ 
 }
